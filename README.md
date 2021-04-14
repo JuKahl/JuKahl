@@ -15,5 +15,5 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jukahl&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jukahl" /></p>
 <br>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jukahl&show_icons=true&theme=tokyonight&locale=en" alt="jukahl" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jukahl&show_icons=true&theme=tokyonight&locale=en" alt="jukahl" /></p>
 
