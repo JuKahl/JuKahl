@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Julian</h1>
+<h1 align="center">Hi, I'm Julian 🌚</h1>
 <h3 align="center">Sports enthusiast and web developer from Germany</h3>
 
 - 🔭 I’m currently working on [King of the Hill](https://github.com/JuKahl/King-of-the-Hill)
